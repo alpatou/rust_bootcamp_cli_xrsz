@@ -1,5 +1,5 @@
 [package]
-name = "rust_bootcamp_cli_xrsz"
+name = "my-jira"
 version = "0.1.0"
 edition = "2021"
 
